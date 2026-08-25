@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1001,
+		"customer": 100,
+		"amount": 1001.1,
+		"status": "active"
+	},
+    {
+		"id": 1001,
+		"customer": 100,
+		"amount": 1001.1,
+		"status": "active"
+	},
+    {
+		"id": 1001,
+		"customer": 100,
+		"amount": 500.1,
+		"status": "active"
+	}
+]
