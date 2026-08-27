@@ -1,6 +1,7 @@
 import requests
 
 BASE_URL = "http://127.0.0.1:8005"
+#should store token in a file 
 TOKEN = "my-secret-token"
 
 # 1. Test Public Endpoint
