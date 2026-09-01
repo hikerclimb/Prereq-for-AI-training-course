@@ -1,0 +1,5 @@
+1. Open git bash
+2. go to directory where BearerToken.py is located
+3. run BearerToken.py by running following command ./BearerToken.py
+4. To make sure BearerToken.py is running test with ./BearerTokenTest.py (open in second git bash window)
+5. to end do ctrl-C on both git bash windows
