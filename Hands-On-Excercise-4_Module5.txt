@@ -1,0 +1,6 @@
+API: https://api.openweathermap.org/data/4.0/onecall/current?lat={lat}&lon={lon}&appid={API key}
+lat required
+lon required
+appid required
+units optional
+lang optional
