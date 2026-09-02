@@ -1,0 +1,6 @@
+Token Used: my-secret-token
+Data: {"name":"Sample Item","description":"Writing this to a file."}
+---
+Token Used: my-secret-token
+Data: {"name":"Sample Item","description":"Writing this to a file."}
+---
