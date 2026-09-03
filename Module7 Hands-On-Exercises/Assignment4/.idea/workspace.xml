@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d084e2b-810c-41a2-bfbb-1230212e38a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
+    <list default="true" id="6d084e2b-810c-41a2-bfbb-1230212e38a6" name="Changes" comment="got basic get request to work on API. completed module 7 excercise 4. can be called from git bash as follows:  uvicorn main:app --reload.">
       <change afterPath="$PROJECT_DIR$/../WelcomeScreen/.idea/WelcomeScreen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,12 +107,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788471107114</updated>
-      <workItem from="1788471108095" duration="424000" />
+      <workItem from="1788471108095" duration="543000" />
     </task>
+    <task id="LOCAL-00001" summary="got basic get request to work on API. completed module 7 excercise 4. can be called from git bash as follows:  uvicorn main:app --reload.">
+      <option name="closed" value="true" />
+      <created>1788471556221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788471556221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="got basic get request to work on API. completed module 7 excercise 4. can be called from git bash as follows:  uvicorn main:app --reload." />
+    <option name="LAST_COMMIT_MESSAGE" value="got basic get request to work on API. completed module 7 excercise 4. can be called from git bash as follows:  uvicorn main:app --reload." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Assignment4$Assignment4.coverage" NAME="Assignment4 Coverage Results" MODIFIED="1788471149556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
