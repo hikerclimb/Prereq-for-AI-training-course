@@ -1,3 +1,5 @@
 Request url: https://mail.google.com/mail/u/0/&ogbl
 
+This happens when I am logged into google account. 
+
 status: 302 not found
