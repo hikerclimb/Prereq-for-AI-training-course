@@ -1,0 +1,3 @@
+Request url: https://mail.google.com/mail/u/0/&ogbl
+
+status: 302 not found
